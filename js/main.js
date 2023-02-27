@@ -11,7 +11,7 @@ const weather = document.querySelector('.weather')
 const temperature = document.querySelector('.temperature')
 const humidity = document.querySelector('.humidity')
 
-const API_LINK = 'http://api.openweathermap.org/geo/1.0/direct?q='
+const API_LINK = 'https://api.openweathermap.org/geo/1.0/direct?q='
 const API_KEY = '&appid=4ab8cf2758f9025894f72416b8880a36'
 const API_UNITS = '&units=metric'
 
